@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [FTC Centerstage Robot Controller](https://github.com/zedaes/FTC-Centerstage-Robot-Controller)
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me about **Tensorflow, Python, Game Development, Robotics, Gaming**
-- 📫 How to reach me **zedaesthedev@gmail.com**
+- 📫 How to reach me **thezedaes@gmail.com**
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/zedaes?tab=repositories)
 - ⚡ Fun fact **I can solve a 6 x 6 rubiks cube**
 
