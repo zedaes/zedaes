@@ -51,4 +51,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zedaes&theme=react-dark"/>
 
+<a href="https://monkeytype.com/profile/zedaes">
+    <img src="https://raw.githubusercontent.com/zedaes/zedaes/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+</a>
+                        
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/zedaes?theme=auto&font=&extension=activity)
