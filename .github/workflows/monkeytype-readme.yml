@@ -2,7 +2,7 @@ name: generate monkeytype readme svg
 
 on:
     schedule:
-        - cron: "* * * * *" # every 6 hours
+        - cron: "* * * * *" # every minute
     workflow_dispatch:
 
 jobs:
