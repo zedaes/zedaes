@@ -25,6 +25,19 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=zedaes&theme=dark" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=zedaes&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zedaes&theme=dark" alt="GitHub Streak">
+</p>
+
 - 🔭 I’m currently working on [Suroi Wiki](https://github.com/HasangerGames/suroi-wiki)
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **Tensorflow, Python, Game Development, Robotics, Gaming**
