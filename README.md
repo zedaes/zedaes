@@ -58,3 +58,8 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://monkeytype.com/profile/zedaes">
+    <img src="https://raw.githubusercontent.com/zedaes/zedaes/refs/heads/monkeytype/zedaes-monkeytype-readme-pb.svg" alt="Monkeytype Stats">
+  </a>
+</p>
