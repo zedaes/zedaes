@@ -52,6 +52,9 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zedaes&theme=react-dark"/>
 
-                       
+<p align="center">
+  <a href="https://leetcode.com/zedaes">
+    <img src="https://leetcard.jacoblin.cool/zedaes" alt="LeetCode Stats">
+  </a>
+</p>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/zedaes?theme=auto&font=&extension=activity)
