@@ -60,3 +60,7 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{zedaes}/count.svg" alt="zedaes :: Visitor's Count" />
+</p>
+
