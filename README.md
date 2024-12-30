@@ -47,7 +47,7 @@
 - 🔭 I’m currently working on [Suroi Wiki](https://github.com/HasangerGames/suroi-wiki)
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **Tensorflow, Python, Game Development, Robotics, Gaming**
-- 📫 How to reach me **thezedaes@gmail.com**
+- 📫 How to reach me **zedaes@proton.me**
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/zedaes?tab=repositories)
 - ⚡ Fun fact **I can solve a 6 x 6 rubiks cube**
  
