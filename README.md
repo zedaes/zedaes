@@ -2,7 +2,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="Animated Hello GIF">
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=200&color=0BF700&center=true&width=870&height=100&lines=It's+me+zedaes!;Welcome!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=200&color=0BF700&center=true&width=870&height=100&lines=I'm+zedaes!;Welcome!" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
