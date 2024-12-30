@@ -28,6 +28,9 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </p>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=zedaes&theme=dark" />
@@ -52,8 +55,8 @@
 - ⚡ Fun fact **I can solve a 6 x 6 rubiks cube**
  
 <p align="center">
-  <img src="https://img.shields.io/badge/TOTAL_LINUX_FAILURES-7-red?style=for-the-badge&logo=linux&logoColor=white" alt="Total Linux Failures">
-  <img src="https://img.shields.io/badge/LATEST_KILL-07/29/2024-brightgreen?style=for-the-badge&logo=skull&logoColor=white" alt="Latest Kill">
+  <img src="https://img.shields.io/badge/TOTAL_LINUX_FAILURES-8-red?style=for-the-badge&logo=linux&logoColor=white" alt="Total Linux Failures">
+  <img src="https://img.shields.io/badge/LATEST_KILL-12/29/2024-brightgreen?style=for-the-badge&logo=skull&logoColor=white" alt="Latest Kill">
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
