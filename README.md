@@ -4,6 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=200&color=0BF700&center=true&width=870&height=100&lines=I'm+zedaes!;Welcome!" alt="Typing SVG" /></a>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -40,6 +41,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zedaes&theme=dark" alt="GitHub Streak">
 </p>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 - 🔭 I’m currently working on [Suroi Wiki](https://github.com/HasangerGames/suroi-wiki)
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **Tensorflow, Python, Game Development, Robotics, Gaming**
@@ -52,6 +56,9 @@
   <img src="https://img.shields.io/badge/LATEST_KILL-07/29/2024-brightgreen?style=for-the-badge&logo=skull&logoColor=white" alt="Latest Kill">
 </p>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zedaes&theme=react-dark"/>
 
 <p align="center">
@@ -59,6 +66,9 @@
     <img src="https://leetcard.jacoblin.cool/zedaes" alt="LeetCode Stats">
   </a>
 </p>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/{zedaes}/count.svg" alt="zedaes :: Visitor's Count" />
