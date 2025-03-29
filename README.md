@@ -57,8 +57,8 @@
 - ⚡ Fun fact **I can solve a 6 x 6 rubiks cube**
  
 <p align="center">
-  <img src="https://img.shields.io/badge/TOTAL_LINUX_FAILURES-8-red?style=for-the-badge&logo=linux&logoColor=white" alt="Total Linux Failures">
-  <img src="https://img.shields.io/badge/LATEST_KILL-12/29/2024-brightgreen?style=for-the-badge&logo=skull&logoColor=white" alt="Latest Kill">
+  <img src="https://img.shields.io/badge/TOTAL_LINUX_FAILURES-9-red?style=for-the-badge&logo=linux&logoColor=white" alt="Total Linux Failures">
+  <img src="https://img.shields.io/badge/LATEST_KILL-3/26/2025-brightgreen?style=for-the-badge&logo=skull&logoColor=white" alt="Latest Kill">
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
