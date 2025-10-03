@@ -1,3 +1,3 @@
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zedaes&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zedaes&theme=dark&card_width=1000&card_height=200" alt="GitHub Streak" /></a>
 </div>
